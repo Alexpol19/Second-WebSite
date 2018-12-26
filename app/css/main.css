@@ -1,0 +1,78 @@
+/*--------Содержание------------*/
+/*1. CSS Reset*/
+/*2.Общие*/
+/*3. Header*/
+/*4. Sections*/
+
+/*5.Footer*/
+
+/*6.Animations*/
+/*7.Media*/
+
+/*--------------------START--------------------*/
+
+/*1. CSS Reset------------*/
+@import url(reset.css);
+
+/*-----------------CSS Reset Finish*/
+
+/*2.Общие------------------*/
+
+/*-------------Общие Finish*/
+
+html{
+   font-family: , serif;
+font-size: 100%;
+    
+}
+.wrapper{
+    margin: 0 auto;
+/*    width: 100%;*/
+}
+
+
+/*3. Header-------------*/
+
+/*-------------Header Finish
+
+/*4. Sections---------------*/
+
+/*5.Footer-------------*/
+
+/*-------------Footer Finish*/
+
+
+/*6. Animations-------------*/
+
+/*-------------Animations*/
+
+/*7.Media------------------*/
+
+
+
+/*
+@media(max-width:1199px){
+}
+
+@media(max-width:991px){
+    
+}
+
+@media(max-width:767px){
+    
+}
+*/
+@-ms-viewport { 
+ width: device-width;
+}
+@-webkit-viewport{
+    width: device-width;
+}
+@-o-viewport { 
+ width: device-width;
+}
+@viewport { 
+ width: device-width;
+}
+/*---------------Media Finish*/
+
